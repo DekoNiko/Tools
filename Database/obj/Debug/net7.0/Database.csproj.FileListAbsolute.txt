@@ -1,0 +1,11 @@
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\bin\Debug\net7.0\Database.deps.json
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\bin\Debug\net7.0\Database.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\bin\Debug\net7.0\Database.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\refint\Database.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\Database.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Database\obj\Debug\net7.0\ref\Database.dll

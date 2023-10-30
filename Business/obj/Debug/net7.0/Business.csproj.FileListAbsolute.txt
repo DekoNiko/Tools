@@ -1,0 +1,15 @@
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\bin\Debug\net7.0\Business.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\bin\Debug\net7.0\Database.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\bin\Debug\net7.0\Database.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Projeto app\ToolsProject\Business\obj\Debug\net7.0\ref\Business.dll
